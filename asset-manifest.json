@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-is-fun/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-is-fun/static/js/main.21362297.chunk.js",
+    "main.js.map": "/react-is-fun/static/js/main.21362297.chunk.js.map",
+    "runtime-main.js": "/react-is-fun/static/js/runtime-main.fb11696b.js",
+    "runtime-main.js.map": "/react-is-fun/static/js/runtime-main.fb11696b.js.map",
+    "static/js/2.18889bfe.chunk.js": "/react-is-fun/static/js/2.18889bfe.chunk.js",
+    "static/js/2.18889bfe.chunk.js.map": "/react-is-fun/static/js/2.18889bfe.chunk.js.map",
+    "static/js/3.7c42c47c.chunk.js": "/react-is-fun/static/js/3.7c42c47c.chunk.js",
+    "static/js/3.7c42c47c.chunk.js.map": "/react-is-fun/static/js/3.7c42c47c.chunk.js.map",
+    "index.html": "/react-is-fun/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-is-fun/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.18889bfe.chunk.js.LICENSE.txt": "/react-is-fun/static/js/2.18889bfe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-is-fun/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb11696b.js",
+    "static/js/2.18889bfe.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.21362297.chunk.js"
+  ]
+}
