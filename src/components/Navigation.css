@@ -1,0 +1,19 @@
+
+.Navigation {
+  width: 100%;
+  min-height: 50px;
+  text-align: center;
+  background: #fff;
+  font-size: 2.7em;
+  font-weight: 700;
+  padding-top: 7px;
+}
+  .Navigation > a {
+    text-decoration: none;
+    margin: 0 13px;
+    color: #C4DA49;
+    font-family: 'Teko', sans-serif;
+  }
+  .Navigation > a:hover {
+    color: #333;
+  }
